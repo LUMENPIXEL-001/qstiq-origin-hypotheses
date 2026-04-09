@@ -1,0 +1,144 @@
+[Version 1.1 — Priority Claim Draft]
+A Foundational Architecture of the Universe:
+The Rotating Lattice Sphere and 27-Base Systemic Dynamics
+
+Author: LUMEN PIXEL
+Date: April 10, 2026
+Category: Conceptual Physics / System Architecture / Cosmology
+
+---
+
+## 0. Positioning Statement (Framework Continuity)
+
+This document is presented as a speculative conceptual hypothesis for priority claim purposes only. It does not aim to provide a complete physical theory or formal proof.
+
+This model is defined as a structural extension of the previously published hypothesis series, including:
+
+* QSTIQ (Query-based cognition framework)
+* ICP (Information Commitment Protocol)
+* DPIL (Dynamic Information Interpolation Logic)
+* Commitment Layer framework (Time and gravity as consequences of commitment)
+
+Within this lineage, the present work proposes a candidate physical architecture for the informational substrate previously defined.
+
+---
+
+## 1. Abstract
+
+This paper proposes that the universe can be described as a structured information-processing substrate with a specific geometric and dynamical architecture. Rather than introducing additional unknown fields or constants, the model defines a discrete yet overlapping lattice system operating under global rotational dynamics.
+
+The framework introduces a 27-unit overlapping lattice as a candidate substrate structure and interprets cosmological expansion, temporal directionality, and gravitational effects as emergent consequences of system-level information organization and constraint propagation.
+
+This document establishes the core structural hypotheses required for priority claim. No claim is made regarding empirical validation at this stage.
+
+---
+
+## 2. Core Hypotheses (Priority Set)
+
+### 2.1 Structural Postulate: 27-Unit Overlapping Lattice
+
+The fundamental substrate of the universe is defined as a discrete volumetric unit composed of 27 nodes arranged in a 3 × 3 × 3 configuration.
+
+These units are not isolated. Each unit partially overlaps with adjacent units such that:
+
+* Neighboring lattice units share boundary nodes
+* The system forms a continuous but discretely addressable structure
+
+This structure is defined as the minimal stable configuration capable of supporting:
+
+* Information persistence
+* Inter-unit propagation
+* Layer-based accumulation (as defined in the Commitment framework)
+
+Within this model, the previously defined “substrate” is identified with this overlapping lattice system.
+
+---
+
+### 2.2 Dynamical Postulate: Global Rotational Constraint
+
+The lattice substrate is not static. The system operates under a global rotational constraint defined at the level of the entire structure.
+
+This rotation is not introduced as an external force but as a boundary condition of the system.
+
+Consequences of this postulate:
+
+* Local regions experience differential effective acceleration depending on position within the global structure
+* Observed cosmological expansion is interpreted as a positional effect within this rotational system
+
+No absolute external reference frame is assumed. All observable dynamics emerge from internal relational structure.
+
+---
+
+### 2.3 Temporal Postulate: Layer Accumulation as Time
+
+Consistent with the Commitment Layer framework, time is defined as the sequential accumulation of irreversible information states.
+
+Within the lattice model:
+
+* Each stable state transition across the lattice constitutes a commitment event
+* A complete system-wide update corresponds to one layer
+
+Therefore:
+
+* Time is not an independent dimension
+* Time is the ordered accumulation of lattice-state commitments
+
+This postulate directly maps to the previously defined commitment layer structure and does not introduce a new temporal mechanism.
+
+---
+
+### 2.4 Gravitational Postulate: Information Density Gradient
+
+Gravitational phenomena are interpreted as emergent effects of non-uniform information density within the lattice.
+
+Specifically:
+
+* Regions with higher commitment density create structural gradients in the lattice
+* These gradients affect propagation paths and state transition costs
+
+This results in:
+
+* Effective curvature-like behavior
+* Time dilation effects via variation in layer accumulation rate
+
+This definition is consistent with the prior formulation in which gravity is a consequence of commitment density, now grounded in a specific substrate structure.
+
+---
+
+## 3. Structural Implications (Non-Exhaustive)
+
+The combination of the above postulates implies the following:
+
+1. Cosmological expansion is not driven by external energy injection but arises from the interaction between global rotational constraint and lattice occupancy.
+
+2. Large-scale structure may exhibit weak anisotropies reflecting underlying lattice organization.
+
+3. Temporal directionality is enforced by irreversible state commitment and cannot be inverted within the system.
+
+These implications are presented as structural consequences rather than quantitative predictions.
+
+---
+
+## 4. Scope and Limitation
+
+This document intentionally excludes:
+
+* Numerical derivations of physical constants
+* Detailed dynamical equations
+* Simulation results
+
+The purpose of this version is strictly to establish:
+
+* The existence of a 27-based overlapping lattice hypothesis
+* Its integration with an existing information-commitment framework
+* Its interpretation as a candidate physical substrate
+
+---
+
+## 5. One-Line Summary
+
+"The universe is a rotating, overlapping lattice-based information substrate in which time emerges from irreversible state commitment and gravity arises from spatial gradients of committed information density."
+
+---
+
+End of Version 1.1 (Priority Claim Draft)
