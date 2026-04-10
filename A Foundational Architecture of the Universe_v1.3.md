@@ -68,3 +68,5 @@ This unified framework establishes that the macroscopic evolution of the univers
 
 ---
 **One-Line Summary:** "The universe is an expanding state-domain rolling along a rotating lattice substrate, where observed expansion phases are geometric manifestations of the domain's trajectory and information commitment load."
+
+<img width="523" height="674" alt="Image" src="https://github.com/user-attachments/assets/2d747c54-1d35-4e15-80db-bc4a843c3851" />
