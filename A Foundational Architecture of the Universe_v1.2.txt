@@ -1,0 +1,135 @@
+[Version 1.2 — Priority Claim Draft | Rolling Dynamics Integrated]
+A Foundational Architecture of the Universe:
+The Rotating Lattice Sphere and Systemic Dynamics
+
+Author: LUMEN PIXEL
+Date: April 10, 2026
+Category: Conceptual Physics / System Architecture / Cosmology
+
+---
+
+## 0. Positioning Statement (Framework Continuity)
+
+This document is presented as a speculative conceptual hypothesis for priority claim purposes. It does not aim to provide a complete physical theory or formal proof.
+
+This model extends the previously introduced frameworks:
+
+* QSTIQ (Query-based cognition framework)
+* ICP (Information Commitment Protocol)
+* DPIL (Dynamic Information Interpolation Logic)
+* Commitment Layer framework
+
+Within this lineage, the present work proposes a candidate physical architecture for the informational substrate and its observable manifestation.
+
+---
+
+## 1. Abstract
+
+This paper proposes that the universe can be described as a structured information-processing system consisting of a lattice-based substrate operating under global rotational constraints.
+
+The observable universe is defined as a dynamically evolving configuration of states instantiated over this lattice substrate. Crucially, this configuration does not remain static in position, but follows a continuous, structured trajectory within the rotating system.
+
+In this framework, the universe behaves as an expanding, coherently evolving state-domain that progresses along a path within the lattice structure. This progression gives rise to effective cyclic or rolling dynamics, through which cosmological expansion history can be interpreted.
+
+---
+
+## 2. Core Hypotheses (Priority Set)
+
+### 2.1 Structural Postulate: Overlapping Lattice Substrate
+
+The fundamental substrate of the universe is defined as a discretely addressable volumetric lattice composed of overlapping units.
+
+A 3 × 3 × 3 (27-unit) configuration is proposed as a candidate minimal stable structure under overlapping constraints, though the framework is not restricted to this specific configuration.
+
+This lattice constitutes the underlying structural medium capable of supporting:
+
+* Information persistence
+* State propagation
+* Layer-based accumulation
+
+---
+
+### 2.2 Representational Postulate: Universe as Displayed State
+
+The observable universe is not identified with the lattice substrate itself, but with a configuration of states defined over it.
+
+The lattice functions as a structural display medium, while physical reality corresponds to the evolving configuration rendered upon this medium.
+
+This displayed configuration forms a coherent domain ("universe domain") that evolves continuously over the substrate.
+
+---
+
+### 2.3 Dynamical Postulate: Global Rotation and Rolling Trajectory
+
+The lattice substrate operates under a global rotational constraint defined at the level of the entire structure.
+
+Within this rotating structure, the universe domain does not merely expand in place. Instead, it progresses along a continuous trajectory across the lattice, maintaining coherence while evolving.
+
+This trajectory can be interpreted as a rolling-like evolution of the universe domain over the substrate, in which:
+
+* Expansion corresponds to growth of the domain
+* Translation corresponds to progression along the lattice
+* Rotation induces position-dependent effective dynamics
+
+The combined effect produces a rolling or cyclic progression of the universe domain within the lattice structure.
+
+---
+
+### 2.4 Temporal Postulate: Commitment Layer Accumulation
+
+Time is defined as the ordered accumulation of irreversible state commitments across the lattice.
+
+Each global update of lattice states constitutes a layer, forming a directional sequence.
+
+The rolling progression of the universe domain is realized through successive commitment layers.
+
+---
+
+### 2.5 Gravitational Postulate: Information Density Gradient
+
+Gravitational phenomena arise from non-uniform distributions of committed information across the lattice.
+
+Regions of higher commitment density produce structural gradients affecting state propagation and the trajectory of the universe domain.
+
+This results in:
+
+* Effective curvature-like behavior
+* Variation in local evolution rates
+
+---
+
+## 3. Structural Implications
+
+The combined postulates imply:
+
+1. The observable universe behaves as an expanding domain that progresses along a structured path within a rotating lattice substrate.
+
+2. Apparent motion and large-scale dynamics correspond to coherent domain evolution rather than independent motion within an external space.
+
+3. Cosmological expansion, deceleration, and re-acceleration phases can be interpreted as position-dependent dynamical regimes encountered along the rolling trajectory.
+
+---
+
+## 4. Scope and Limitation
+
+This document intentionally excludes:
+
+* Detailed mathematical formalism
+* Numerical derivations
+* Simulation results
+
+Its purpose is to establish:
+
+* A lattice-based substrate hypothesis
+* A rolling-domain interpretation of cosmic evolution
+* A unified structural framework connecting prior information-theoretic models
+
+---
+
+## 5. One-Line Summary
+
+"The universe is an expanding state-domain that rolls along a rotating lattice substrate, where time emerges from state commitment and gravity arises from information density gradients."
+
+---
+
+End of Version 1.2 (Rolling Dynamics Integrated Draft)
